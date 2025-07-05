@@ -1,1 +1,1 @@
-# shipping-calculator-app
+LogisticsShippingRates
